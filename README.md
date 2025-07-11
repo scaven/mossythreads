@@ -1,2 +1,2 @@
-# mossylight
-mossylight.chaosflower.net
+# mossythreads (light)
+mossythreads.chaosflower.net
